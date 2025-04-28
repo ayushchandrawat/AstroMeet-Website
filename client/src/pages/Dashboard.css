@@ -1,0 +1,27 @@
+/* Add this for starry background effect */
+.bg-stars {
+  background-image: url('https://www.transparenttextures.com/patterns/stardust.png');
+  opacity: 0.2;
+}
+.bg-stars {
+  background: url('/stars.svg'); /* Add star background SVG or use particles.js */
+  background-size: cover;
+  opacity: 0.3;
+  animation: twinkle 30s linear infinite;
+}
+
+@keyframes twinkle {
+  0% {
+    opacity: 0.3;
+  }
+  50% {
+    opacity: 0.6;
+  }
+  100% {
+    opacity: 0.3;
+  }
+}
+
+.dashboard-card:hover {
+  box-shadow: 0 0 20px rgba(255, 255, 255, 0.15), 0 0 40px rgba(255, 255, 255, 0.1);
+}
