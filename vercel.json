@@ -1,5 +1,5 @@
 {
   "rewrites": [
-    { "source": "/(.*)", "destination": "/client/src/pages/Home.jsx" }
+    { "source": "/(.*)", "destination": "/client/src/pages/index.html" }
   ]
 }
