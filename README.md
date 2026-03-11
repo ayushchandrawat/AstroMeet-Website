@@ -1,3 +1,4 @@
+![AstroMeet-Website-Preview](client/public/Astro-Web.png)
 # 🚀 Astrology Hub &mdash; Your Gateway to the Stars 🌠
 Astrology Hub is an innovative platform that brings together the ancient wisdom of astrology and the power of modern technology. Our mission is to provide a comprehensive and user-friendly platform for individuals to explore their astrological profiles, connect with like-minded individuals, and gain insights into their lives.
 
@@ -59,8 +60,6 @@ The API reference is available at [API Documentation](https://example.com/api/do
 
 ## 👤 Author
 The project was created by [Your Name](https://example.com).
-
-![AstroMeet-Website-Preview](client/public/Astro-Web.png)
 
 ## 📝 License
 The project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
