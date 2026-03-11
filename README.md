@@ -60,7 +60,7 @@ The API reference is available at [API Documentation](https://example.com/api/do
 ## 👤 Author
 The project was created by [Your Name](https://example.com).
 
-![AstroMeet-Website-Preview](public/Astro-Web.png)
+![AstroMeet-Website-Preview](client/public/Astro-Web.png)
 
 ## 📝 License
 The project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
